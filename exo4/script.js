@@ -1,3 +1,4 @@
+"use strict";
 
 const produit = { nom: "Clavier", prix: 25, quantite: 10 };
 console.log(`Valeur du stock de ${produit.nom} : ${produit.prix * produit.quantite} DA`);
